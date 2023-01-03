@@ -1,0 +1,2 @@
+$ cd ~/omnetpp-5.2.1/samples/aflora-v1/simulations
+$ ../src/aflora -r 10 -m -u Cmdenv -c S30 -n ../src:.:../../inet/src:../../inet/examples:../../inet/tutorials:../../inet/showcases --image-path=../../inet/images -l ../../inet/src/INET LoRaNetAnalysis.ini
